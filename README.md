@@ -5,15 +5,17 @@ Kumulos provides tools to build and host backend storage for apps, send push not
 ## Get Started
 
 1. Import the Unity package into your project
-2. Attach the `KumulosInit` behaviour to your main scene's camera
-3. Edit the `KumulosInit` file to complete initialization:
+2. Attach the `KumulosInit` behavior to your main scene's camera
+3. Edit the `KumulosInit` file to start initialization:
 
-```csharp
-var config = (new Config.Builder ("YOUR_API_KEY", "YOUR_SECRET_KEY"))
-    .Build ();
+   ```csharp
+   var config = (new Config.Builder("YOUR_API_KEY", "YOUR_SECRET_KEY"))
+       .Build();
 
-Kumulos.Initialize (config);
-```
+   Kumulos.Initialize (config);
+   ```
+
+4. Follow the integration guide to complete initialization
 
 For more information on integrating the Unity SDK with your project, please see the [Kumulos Unity integration guide](https://docs.kumulos.com/integration/unity).
 
