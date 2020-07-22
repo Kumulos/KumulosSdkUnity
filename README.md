@@ -26,3 +26,10 @@ Pull requests are welcome for any improvements you might wish to make. If it's s
 ## License
 
 This project is licensed under the MIT license with portions licensed under the BSD 2-Clause and Apache 2 licenses. See our LICENSE file and individual source files for more information.
+
+## Unity Version Support
+
+| Unity Version    | SDK Version   |
+| ---------------- | ------------- |
+| 2018.4 to 2019.2 | 4.x, 5.x, 6.x |
+| 2019.3+          | 7.x           |
