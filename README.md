@@ -33,3 +33,4 @@ This project is licensed under the MIT license with portions licensed under the 
 | ---------------- | ------------- |
 | 2018.4 to 2019.2 | 4.x, 5.x, 6.x |
 | 2019.3+          | 7.x           |
+| 2020.3+          | 8.x           |
