@@ -1,0 +1,6 @@
+framework module KumulosSDK {
+  umbrella header "KumulosSDK.h"
+
+  export *
+  module * { export * }
+}

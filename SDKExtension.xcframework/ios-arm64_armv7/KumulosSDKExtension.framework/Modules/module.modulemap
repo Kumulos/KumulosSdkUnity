@@ -1,0 +1,6 @@
+framework module KumulosSDKExtension {
+  umbrella header "KumulosSDKExtension.h"
+
+  export *
+  module * { export * }
+}
